@@ -1,0 +1,17 @@
+D:\Університет\Work\Test\FormTest\FormTest\bin\Release\FormTest.exe
+D:\Університет\Work\Test\FormTest\FormTest\bin\Release\FormTest.pdb
+D:\Університет\Work\Test\FormTest\FormTest\obj\Release\ResolveAssemblyReference.cache
+D:\Університет\Work\Test\FormTest\FormTest\obj\Release\FormTest.Form1.resources
+D:\Університет\Work\Test\FormTest\FormTest\obj\Release\FormTest.Properties.Resources.resources
+D:\Університет\Work\Test\FormTest\FormTest\obj\Release\FormTest.csproj.GenerateResource.Cache
+D:\Університет\Work\Test\FormTest\FormTest\obj\Release\FormTest.exe
+D:\Університет\Work\Test\FormTest\FormTest\obj\Release\FormTest.pdb
+C:\Users\user\Desktop\FormTest\FormTest\bin\Release\FormTest.exe
+C:\Users\user\Desktop\FormTest\FormTest\bin\Release\FormTest.pdb
+C:\Users\user\Desktop\FormTest\FormTest\obj\Release\FormTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FormTest\FormTest\obj\Release\FormTest.Form1.resources
+C:\Users\user\Desktop\FormTest\FormTest\obj\Release\FormTest.Properties.Resources.resources
+C:\Users\user\Desktop\FormTest\FormTest\obj\Release\FormTest.csproj.GenerateResource.cache
+C:\Users\user\Desktop\FormTest\FormTest\obj\Release\FormTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FormTest\FormTest\obj\Release\FormTest.exe
+C:\Users\user\Desktop\FormTest\FormTest\obj\Release\FormTest.pdb
